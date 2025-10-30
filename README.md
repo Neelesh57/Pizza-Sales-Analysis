@@ -1,29 +1,44 @@
 # 🍕 Pizza Sales Analysis — Business Intelligence Project
 
 ## 🎯 Objective
-Analyze pizza sales data to uncover insights that improve revenue, identify top-selling categories, and optimize business decisions.
+To analyze pizza sales data and uncover key insights that help improve revenue, identify top-selling categories, and optimize marketing and inventory decisions.
 
-## 🧰 Tools Used
-- SQL (MySQL)
-- Excel Dashboard (Analysis.xlsx)
-- Dataset: pizza_sales.csv
+---
+
+## 🧰 Tools & Technologies
+- **SQL (MySQL)** – for data extraction, transformation, and KPI calculation  
+- **Excel (Pivot Tables & Dashboards)** – for visualization and performance analysis  
+- **Dataset:** `pizza_sales.csv`
+
+---
 
 ## 📊 Key Insights
-- Best-selling category: Classic (contributes 40% of sales)
-- Peak order time: 12 PM–2 PM
+- **Top-selling category:** *Classic* pizzas (contributing ~40% of total revenue)  
+- **Peak order time:** *12 PM–2 PM* (lunchtime hours)  
+- **Highest sales day:** *Friday and Saturday*, indicating strong weekend demand  
+- **Average order value:** Higher for *large-size pizzas*, suggesting upselling potential  
+
+---
 
 ## 💼 Recommendations
-- Launch weekday lunch promotions during 12–2 PM.
-- Focus marketing efforts and combo promotions on Classic and Supreme categories, particularly targeting weekend and lunch-time buyers.
+- **Launch weekday lunch promotions** between *12–2 PM* to capitalize on peak sales hours.  
+- **Focus marketing and combo offers** on *Classic* and *Supreme* categories, especially during weekends.  
+- **Optimize inventory levels** for high-demand pizzas during peak hours to prevent stockouts.  
+- **Discontinue or promote low-performing pizzas** based on consistent low sales trends.  
+- **Adjust staffing schedules** during peak demand times to improve service efficiency.  
+- **Leverage customer preferences** (e.g., size and toppings) for targeted marketing campaigns.  
 
-## 📁 Project Files
-- `pizza_sales.csv` — Raw dataset
-- `analysis.xlsx` — Dashboard
-- `pizza_sales_analysis.docx` — SQL queries
-##Possible Actions / Recommendations from the Project:
--Optimize inventory levels for high-demand pizzas during peak hours or weekends to prevent stockouts.
--Discontinue or promote low-performing pizzas based on consistent low sales trends.
--Introduce combo offers or discounts on best-selling pizza types during off-peak hours to boost sales.
--Adjust staffing schedules around peak sales times (e.g., evenings or weekends) to improve efficiency.
--Refine marketing efforts — focus ads or promotions on top-selling pizza categories or regions with high order volumes.
--Leverage customer preferences (e.g., pizza size or type) to design targeted offers and personalized recommendations.
+
+## 🧩 Key KPIs Calculated
+- Total Revenue  
+- Average Order Value (AOV)  
+- Total Pizzas Sold  
+- Revenue by Pizza Category & Size  
+- Peak Sales Days & Hours  
+
+---
+
+## 🚀 Business Impact
+This analysis provides actionable insights for **marketing optimization, demand forecasting, and inventory management**, helping stakeholders make **data-driven business decisions**.
+
+
